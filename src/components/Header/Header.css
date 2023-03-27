@@ -3,5 +3,18 @@
   background-color: #1c2b35;
   display: flex;
   justify-content: space-between;
+  align-items: center;
   margin: auto;
+  padding-left: 100px;
+  padding-right:100px;
+}
+
+nav.header a{
+    text-decoration: none;
+    color:#FFFFFF;
+    margin-left: 32px;
+    font-size: 17px;
+}
+nav.header a:hover{
+    color: orange;
 }
